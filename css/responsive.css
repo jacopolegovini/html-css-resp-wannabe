@@ -45,16 +45,23 @@
         gap: 50px;
     }
 
-    /* .steps {
+    .steps {
         margin-bottom: 0;
-    } */
+    }
 
     .steps .col, .lessons .col {
         width: 100%;
     }
 
-    /* .why-us {
+    /* Why us */
+
+    .why-us {
         background-color: black;
-        margin: 1rem 0 0;
-    } */
+        margin: 0;
+    }
+
+    .why-us h2 {
+        /* margin-top: 1rem; */
+        padding-top: 3rem;
+    }
 }
